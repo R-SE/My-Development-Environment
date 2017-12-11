@@ -1,0 +1,11 @@
+//RESET
+@import "./assets/styles/global/normalize";
+
+//BASE
+@import "./assets/styles/global/_global";
+@import "./assets/styles/global/_mixins";
+@import "./assets/styles/global/_variables";
+
+// MODULES
+@import "./assets/styles/modules/_header";
+@import "./assets/styles/modules/_footer";
